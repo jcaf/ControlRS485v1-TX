@@ -4,7 +4,7 @@
  * Created: 12/30/2016 11:21:41 PM
  *  Author: jcaf
  */
-#include "system.h"
+#include "../main.h"
 #include "usart.h"
 #include "../serial/serial.h"
 

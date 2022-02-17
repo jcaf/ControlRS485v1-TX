@@ -6,8 +6,7 @@
  */
 
 #include <stdint.h>
-#include "system.h"
-#include "types.h"
+#include "../main.h"
 #include "pinGetLevel.h"
 
 #define PINGETLEVEL_PERIODIC_ACCESS 20	//msE-3	aplication-level
